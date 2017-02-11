@@ -21,9 +21,13 @@ If you do not have an account,you can create a new account .
 pastebin.com/api 
 
 4.Now open app PyPastebin app and click on Login Settings.Fill your API Key,username ,passwords.
+![ScreenShot] (  https://github.com/gauravssnl/PyPastebin-Symbian/blob/master/ss2.jpg )
+
 
 5.Click on 'Login' and wait for successful login.If you are not able to login after several tries ,that means your API key is invalid.Verify your  API key.
 
 6.After successful login,you can select a file for creating paste.If paste is succesffully created,that paste URL will be shown.
+
+![ScreenShot] (  https://github.com/gauravssnl/PyPastebin-Symbian/blob/master/ss1.jpg )
 
 Thanks everyone.
