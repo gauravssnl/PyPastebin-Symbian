@@ -1,4 +1,5 @@
-PyPastebin Symbian PyS60 App
+#PyPastebin Symbian PyS60 App
+
 Py Pastebin v1.00.01  pys60 2.0 app by gauravssnl for Symbian S60 OS : 
 http://upfile.mobi/ErozvVK00RM 
 
