@@ -18,7 +18,7 @@ If you do not have an account,you can create a new account .
 2.Log /Sign into your account
 
 3.Get your own unique API key by visiting this URL :
-pastebin.com/api
+http://pastebin.com/api/
 
 4.Now open app Py Pastebin  and click on Login Settings.Fill your API Key,username ,passwords.
 
