@@ -27,3 +27,5 @@ http://pastebin.com/api/
 6.After successful login,you can select a file for creating paste.If paste is succesffully created,that paste URL will be shown.
 
 Thanks everyone.
+
+![ScreenShot] (https://github.com/gauravssnl/PyPastebin-Symbian/blob/master/ss1.jpg)
