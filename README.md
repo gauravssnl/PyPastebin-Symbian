@@ -28,4 +28,4 @@ http://pastebin.com/api/
 
 Thanks everyone.
 
-![ScreenShot] (https://github.com/gauravssnl/PyPastebin-Symbian/blob/master/ss1.jpg)
+![ScreenShot](https://github.com/gauravssnl/PyPastebin-Symbian/blob/master/ss1.jpg)
